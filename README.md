@@ -51,6 +51,8 @@ Replace placeholder images in the images/ directory with actual images as needed
 # License
 
 This project is licensed under the MIT License.
+## presentation link
+[[presentation link](https://www.loom.com/share/8a8e5deff9b945bf98a948b7e4ae438c?sid=86ab39d7-bfd5-408f-91d9-dc66d1a63ab8)]
 
 # Author
 
